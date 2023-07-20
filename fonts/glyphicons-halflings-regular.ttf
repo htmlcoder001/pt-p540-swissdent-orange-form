@@ -1,0 +1,1325 @@
+﻿<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" dir="ltr" lang="sk-SK">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" dir="ltr" lang="sk-SK">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" dir="ltr" lang="sk-SK">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html dir="ltr" lang="sk-SK">
+<!--<![endif]-->
+	<head>
+		<title> | Vogue.pt</title>
+		<meta name="author" content="RECO s.r.o.">
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+		<meta name="keywords" content>
+		<meta name="description" content>
+		<meta name="robots" content="index, follow">
+		<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+		<script src="../js/jquery.min.js"></script>
+		<script src="../js/jquery-ui.min.js" crossorigin="anonymous"></script>
+		<!--script type="text/javascript" src="/skin/frontend/js/jquery-ui.js"></script-->
+		<!--script type="text/javascript" src="/skin/frontend/js/jquery.hoverIntent.js"></script-->
+		<!--script type="text/javascript" src="/skin/frontend/js/animatescroll.min.js"></script-->
+		
+		<!--script src="/skin/frontend/bootstrap/js/bootstrap.min.js"></script-->
+		<!--link href="/skin/frontend/bootstrap/css/bootstrap.min.css" rel="stylesheet"-->
+
+		<!--link rel="stylesheet" href="/skin/frontend/fancybox/jquery.fancybox.css" type="text/css"-->
+		<!--script src="/skin/frontend/fancybox/jquery.fancybox.js"></script-->
+		<!--script type="text/javascript" src="/skin/frontend/js/jquery.pin.js"></script-->
+		
+		<!--link rel="stylesheet" href="/skin/frontend/css/reset.css"-->
+		<!--link rel="stylesheet" href="/skin/frontend/css/jquery-ui.css"-->
+		<!--link rel="stylesheet" href="/skin/frontend/css/form.css"-->
+		<!--link rel="stylesheet" href="/skin/frontend/css/hamburger.css"-->
+		<!--link rel="stylesheet" href="/skin/frontend/css/fonts.css"-->
+		
+		<!--link rel="stylesheet" href="/skin/frontend/css/responsiveslides.css"-->
+		
+		<!--link rel="stylesheet" href="/skin/frontend/gallery/gallery.css"-->
+		
+		<!--link rel="stylesheet" href="/skin/frontend/css/slick.css"-->
+		
+		<link rel="stylesheet" href="../css/style.css">
+		<!--link rel="stylesheet" href="/skin/frontend/css/responsive.css?v=15"-->
+		
+		<link rel="stylesheet" href="../css/font-awesome.min.css">
+		<link href="../css/css.css" rel="stylesheet">
+		
+		<!--script type="text/javascript" src="/skin/frontend/js/masonry.pkgd.min.js"></script-->
+		<!--script type="text/javascript" src="/skin/frontend/js/responsiveslides.min.js"></script-->
+		<!--script type="text/javascript" src="/skin/frontend/js/jquery.iframetracker.js"></script-->
+		
+		<!--link rel="stylesheet" type="text/css" href="/skin/frontend/css/component.css" /-->
+		<!--link rel="stylesheet" type="text/css" href="/skin/frontend/css/fxfullwidth.css" /-->
+		<!--script src="/skin/frontend/js/modernizr.custom.js"></script-->
+		
+		<!--script type="text/javascript" src="/skin/frontend/js/jquery.sticky.js"></script-->
+		
+		<!--script type="text/javascript" src="/skin/frontend/js/classie.js"></script-->
+		
+		<!--link rel="stylesheet" type="text/css" media="all" href="/skin/frontend/css/webslidemenu.css?v=5" /-->
+		<!--script type="text/javascript" src="/skin/frontend/js/webslidemenu.js"></script-->
+		
+		<!--script type="text/javascript" src="/skin/frontend/js/jssor.slider-26.1.5.min.js"></script-->
+		
+		<!--script type='text/javascript' src='/skin/frontend/gallery/galleria-1.4.2.js?ver=4.7.5'></script-->
+		<!--script type='text/javascript' src='/skin/frontend/gallery/jquery.skitter.js?ver=4.7.5'></script-->
+		<!--script type='text/javascript' src='/skin/frontend/gallery/jquery.easing.1.3.js?ver=4.7.5'></script-->
+		
+		<!--script type="text/javascript" src="/skin/frontend/js/slick.min.js"></script-->
+		
+		<script type="text/javascript" src="../js/main.js"></script>
+		
+		<script>
+			function reload_grid() {
+				$(window).trigger('resize');
+			}
+		</script>
+		
+		
+		<meta property="og:title" content>
+		<meta property="og:site_name" content="Vogue.pt">
+		<meta property="og:type" content="website">
+		<meta property="fb:app_id" content="1181899465275870">
+		<meta property="og:url" content="https://www.vogue.pt/skin/frontend/fonts/glyphicons-halflings-regular.ttf">
+		<meta property="og:description" content>
+		<meta property="og:image" content="../images/default-fb.jpg">
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-NDG83L2');</script>
+		<!-- End Google Tag Manager -->
+		<script>
+			dataLayer.push({
+				'event': 'track',
+				'postAuthor': null,
+				'postDate': "",
+				'postType': 'web'
+			});
+		</script>
+		<script async src="../js/adsbygoogle.js"></script>
+		<script>
+		  (adsbygoogle = window.adsbygoogle || []).push({
+		    google_ad_client: "ca-pub-2968002747373371",
+		    enable_page_level_ads: true
+		  });
+		</script>
+		
+		<script data-cfasync="false">
+          (function (d, w, m) {
+            window.contentTangoId = 1;
+            var s = d.createElement('script');
+            var t = new Date();
+            s.async = true;
+            s.defer = true;
+            s.setAttribute('data-cfasync', false);
+            s.src = '//lighthouse.odyzeo.com/loader-2.js?' + t.getMonth() + t.getDate() + m.floor(t.getHours() / 2);
+            d.head.appendChild(s);
+          })(document, window, Math);
+        </script>
+		
+		<!--Cookie banner-->
+		<!--script type="text/javascript" id="cookiebanner"
+			src="https://cdnjs.cloudflare.com/ajax/libs/cookie-banner/1.2.2/cookiebanner.min.js"
+			data-bg="#000"
+			data-fg="#fff"
+			data-link="#ee7680"
+			data-z-index="10000000000"		
+			data-cookie="CookieInfoScript"
+			data-text-align="center"
+			data-divlinkbg="#fff"
+			data-divlink="#ee7680"
+			data-padding="20px 20px"
+			data-message="Este website utiliza cookies. Saiba mais sobre a "
+			data-linkmsg="nossa política de cookies."
+			data-moreinfo="/politica-de-privacidade"
+			data-close-text="OK"
+			data-close-style="	background-color: #ee7680;
+								cursor: pointer;
+								padding: 7px 20px;
+								position: absolute;
+								right: 10px;
+								bottom: 10px;
+								text-align: center;
+								color: #fff;
+								font-size: 12px;
+								border-radius: 0px;"
+			data-max-height="250px"
+			data-height="auto"
+			data-font-family="'Graphik Web', sans-serif"		
+			data-font-size= "14px">	
+		</script>
+		<style>
+			.cookiebanner {
+				line-height: 35px !important;
+				z-index: 10000 !important;
+			}
+			
+			.cookiebanner-close {
+				line-height: 15px !important;
+			}
+			
+			@media screen and (max-width: 768px) {
+				.cookiebanner {
+					font-size: 10px !important;
+					line-height: 20px !important;
+				}
+				
+				.cookiebanner SPAN {
+					display: block;
+					padding-bottom: 40px;
+				}
+				
+				.cookiebanner-close {
+					left: 10px;
+				    width: 100px;
+					font-size: 10px !important;
+					padding: 5px 10px;
+					margin: 0 auto;
+				}
+			}
+		</style-->
+		<!--end Cookie banner-->
+		<script id="Cookiebot" src="../js/uc.js" data-cbid="0fc3b6e1-edf9-43c2-a5d1-7e1a50eef417" type="text/javascript"></script>
+		<style>
+			#CybotCookiebotDialog {
+				color: #fff !important;
+				background: #000 !important;
+			}
+			
+			#CybotCookiebotDialog .CybotCookiebotFader {
+				background: none !important;
+			}
+			
+			#CybotCookiebotDialogHeader { display: none !important; }
+			
+			#CybotCookiebotDialogPoweredByText {
+				display: none !important;
+			}
+			
+			#CybotCookiebotDialogFooter #CybotCookiebotDialogBodyButtonAccept, #CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonAccept, #CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll {
+				background-color: #ee7680 !important;
+				border-color: #ee7680 !important;
+				color: #ffffff;
+			}
+			
+			#CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonCustomize, #CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection {
+				color: #fff !important;
+			    border-color: #ee7680 !important;
+			}
+			
+			#CybotCookiebotDialogFooter .CybotCookiebotDialogBodyButton {
+				color: #fff !important;
+				border: 2px solid #ee7680 !important;
+			}
+			
+			#CybotCookiebotDialogTabContent input:checked+.CybotCookiebotDialogBodyLevelButtonSlider {
+				background-color: #ee7680 !important;
+			}
+			
+			#CybotCookiebotDialog.CybotEdge #CybotCookiebotDialogBodyEdgeMoreDetails a {
+				color: #ee7680 !important;
+			}
+			
+			#CookiebotWidget {
+				display: none !important;
+			}
+			
+			@media screen and (max-width: 768px) {
+				#CybotCookiebotDialog {
+					top: unset !important;
+					bottom: 0px !important;
+					transform: translateX(-50%) !important;
+				}
+				
+				#CybotCookiebotDialogFooter .CybotCookiebotDialogBodyButton {
+					padding: 5px !important;
+				}
+				
+				#CybotCookiebotDialogBody .CybotCookiebotScrollContainer {
+					max-height: 10em !important;
+				}
+			}
+		</style>
+	</head>
+	<body class="skin page- category-">
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="../ns.html" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/pt_PT/sdk.js#xfbml=1&version=v2.10&appId=1181899465275870";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+		<style>
+			/*.adv {
+				position: fixed;
+				width: 100%;
+				height: 100vh;
+				background-image: url('/skin/frontend/images/MO_22_Brand_Campaign_MM_CM_970x250_PT_01.jpg');
+				background-repeat: no-repeat;
+				background-position: center top;
+				background-size: 100% auto;
+				cursor: pointer;
+				z-index: 999;
+			}
+			
+			.top_banner {
+				min-height: 135px;
+				z-index: -1;
+			}
+			
+			.top-menu {
+				position: relative;
+				background: #fff;
+				z-index: 10000;
+			}
+			
+			.top-menu.fixed {
+				z-index: 10000;
+			}
+			
+			.main-slider-box {
+				z-index: 1000;
+			}
+			
+			.content {
+				z-index: 1000;
+			}
+			
+			FOOTER {
+				z-index: 1000;
+			}
+			
+			@media screen and (max-width: 920px) {
+				HEADER {
+					z-index: 10000;
+				}
+				
+				progress {
+					z-index: 10000;
+				}
+				
+				.animated-arrow {
+					z-index: 10000;
+				}
+				
+				.search-form {
+					z-index: 10010;
+				}
+				
+				.search-button {
+					z-index: 10000;
+				}
+				
+				.top-menu {
+					position: static;
+				}
+				
+				.search-form-button {
+					z-index: 10000;
+				}
+				
+				.wsmain {
+					z-index: 10100;
+				}
+			}*/
+			
+			@media screen and (max-width: 480px) {
+				.adv {
+					display: none !important;
+				}
+			}
+		</style>
+		
+		<div class="top_banner">
+			<div class="wrapper">
+					<div class="ct-b-3"></div>
+				
+			</div>
+		</div>
+		<style>
+			/*#eyeDiv DIV:first-child {
+				display: none;
+			}
+				
+			#eyeDiv DIV:last-child {
+				display: block;
+			}
+				
+			@media screen and (max-width: 480px) {
+				#eyeDiv DIV:first-child {
+					display: block;
+				}
+				
+				#eyeDiv DIV:last-child {
+					display: none;
+				}
+			}*/
+		</style>
+		<header>
+			<ul class="social">
+				<li><a href="https://www.facebook.com/VoguePortugal/?fref=ts" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+				<li><a href="https://www.instagram.com/vogueportugal/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+				<li><a href="https://twitter.com/vogueportugal" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+				<li><a href="https://www.youtube.com/channel/UCApj7u1bhGkMqMOF-tiREow" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+				<!--li><a href="https://www.pinterest.pt/explore/vogue-portugal/" target="_blank"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li-->
+			</ul>
+			<a href="/" class="logo"><img src="logo.svg" alt="Vogue.pt Logo" title="Vogue.pt" height="87"></a>
+			<!--a href="/" class="logo"><img src="/skin/frontend/images/vogue-pride-2023.svg" alt="Vogue.pt Logo" title="Vogue.pt" height="87" /></a-->
+				<progress value="0" id="progressBar">
+				  <div class="progress-container">
+					<span class="progress-bar"></span>
+				  </div>
+				</progress>
+		</header>
+		<nav class="top-menu">
+			<div class="wrapper">
+				<a href="/" class="logo2"><img src="logo.svg" alt="Vogue.pt Logo" title="Vogue.pt" height="24"></a>
+				<!--a href="/" class="logo2"><img src="/skin/frontend/images/vogue-pride-2023.svg" alt="Vogue.pt Logo" title="Vogue.pt" height="24" /></a-->
+				<div class="wsmenucontainer clearfix">
+							<div class="wsmobileheader clearfix"><a id="wsnavtoggle" class="animated-arrow"><span></span></a></div>
+							<div class="headerfull"> 
+								<div class="wsmain">
+									<nav class="wsmenu clearfix">
+										<ul class="mobile-sub wsmenu-list">				<li class="parent-li"><a href="/atualidade" data-id="1">Atualidade</a><div class="wsshoptabing wtsdepartmentmenu clearfix">
+									<div class="wsshopwp clearfix">
+										  <ul class="wstabitem clearfix"><li class="wsshoplink-active"><a href="/noti-cias-4" data-id="9">Notícias</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/victorias-secret-world-tour-2023';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8702/VSWTBubuCourtesyofLakinOgunbanwo Studio[14].jpg"></div>
+															<p class="article-title">Notícias</p>
+															<p class="article-name">Victoria's Secret anuncia Digressão Mundial</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/met-gala-2023-a-passadeira-vermelha';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8681/GettyImages-1486910929.jpeg"></div>
+															<p class="article-title">Notícias</p>
+															<p class="article-name">Met Gala 2023 | A passadeira vermelha</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/open-call-vogue-model-casting';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8629/open-call-casting-vogue-models.jpg"></div>
+															<p class="article-title">Notícias</p>
+															<p class="article-name">Open Call | Vogue procura a próxima geração de modelos</p>
+														</div>
+													</li>
+												  </ul></div></li><li class><a href="/entrevistas" data-id="10">Entrevistas</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/jean-paul-gaultier-paco-rabanne';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8825/JPGxJD_BTS_JEAN_MARQUES_02.jpg"></div>
+															<p class="article-title">Entrevistas</p>
+															<p class="article-name">"É couture, mas também é  realidade"</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/mina-andala-entrevista';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8801/mina andala_foto.jpeg"></div>
+															<p class="article-title">Entrevistas</p>
+															<p class="article-name">Mina Andala: "Não há concorrência entre atores... Há a pessoa certa para o papel certo."</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/entrevista-billie-eilish-fragrancia';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8802/billie-eilish-2-fragrance-01.jpg"></div>
+															<p class="article-title">Entrevistas</p>
+															<p class="article-name">Billie Eilish fala sobre a sua nova fragrância - talvez a mais Gen Z de sempre?</p>
+														</div>
+													</li>
+												  </ul></div></li><li class><a href="/curiosidades" data-id="11">Curiosidades</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/jane-birkin-e-a-hermes-birkin-historia';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8896/GettyImages-1188890464.jpg"></div>
+															<p class="article-title">Curiosidades</p>
+															<p class="article-name">Jane Birkin e a Hermès Birkin: a carteira mais icónica da indústria da Moda foi desenhada pela primeira vez num saco para o enjoo</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/sera-mesmo-uma-mare-de-azar';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8889/GettyImages-515297304 (3).jpg"></div>
+															<p class="article-title">Curiosidades</p>
+															<p class="article-name">Será mesmo uma maré de azar?</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/those-were-the-days-voyage-issue';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8888/those-were-the-days-v242.jpg"></div>
+															<p class="article-title">Curiosidades</p>
+															<p class="article-name">Those were the days</p>
+														</div>
+													</li>
+												  </ul></div></li><li class><a href="/guestlist" data-id="12">Guestlist</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/nova-colecao-verao-skechers';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8804/Vogue Banner Sketchers square.jpg"></div>
+															<p class="article-title">Guestlist</p>
+															<p class="article-name">Moda sem conforto não vale o esforço</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/havaianas-square-o-novo-must-have-do-verao';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8796/MELIE_HIRTZ_HAVAIANAS_2302231047.jpg"></div>
+															<p class="article-title">Guestlist</p>
+															<p class="article-name">Havaianas Square, o novo must-have do verão</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/and-just-like-that-serie-segunda-temporada';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8798/sarah-jessica-parker_0.jpg"></div>
+															<p class="article-title">Guestlist</p>
+															<p class="article-name">And just like that… they’re back!</p>
+														</div>
+													</li>
+												  </ul></div></li><li class="view-all-li"><a href="/atualidade" data-id="1">View all ></a></li>		  </ul>
+									</div>
+								</div>				</li><li class="parent-li"><a href="/moda" data-id="2">Moda</a><div class="wsshoptabing wtsdepartmentmenu clearfix">
+									<div class="wsshopwp clearfix">
+										  <ul class="wstabitem clearfix"><li class="wsshoplink-active"><a href="/noti-cias-5" data-id="13">Notícias</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/georgina-guess-fw23-campanha';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8821/GUESS Global Advertising Campaign Fall 2023 _ Georgina Rodriguez.jpg"></div>
+															<p class="article-title">Notícias</p>
+															<p class="article-name">Georgina Rodríguez é rosto da nova campanha da Guess</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/ema-gaspar-bimba-y-lola';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8820/Beauty.jpg"></div>
+															<p class="article-title">Notícias</p>
+															<p class="article-name">O imaginário de Ema Gaspar chega à BIMBA Y LOLA</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/met-gala-2023-a-passadeira-vermelha';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8681/GettyImages-1486910929.jpeg"></div>
+															<p class="article-title">Notícias</p>
+															<p class="article-name">Met Gala 2023 | A passadeira vermelha</p>
+														</div>
+													</li>
+												  </ul></div></li><li class><a href="/compras-3" data-id="14">Compras</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/wedding-season-minimal-bridal-less-is-more-2023';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8837/WS 7.jpg"></div>
+															<p class="article-title">Compras</p>
+															<p class="article-name">Wedding Season | Less is more </p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/in-the-middle-of-nowhere';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8885/Banner campo.jpg"></div>
+															<p class="article-title">Compras</p>
+															<p class="article-name">In the middle of nowhere</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/strolling-around-verao-na-cidade-casual-chic';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8884/Banner cidade.jpg"></div>
+															<p class="article-title">Compras</p>
+															<p class="article-name">Strolling around</p>
+														</div>
+													</li>
+												  </ul></div></li><li class><a href="/tende-ncias-3" data-id="15">Tendências</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/pink-everything-o-que-vestir-na-estreia-da-barbie';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8895/barbie-e-ken2.jpg"></div>
+															<p class="article-title">Tendências</p>
+															<p class="article-name">Pink everything: o que vestir na estreia da Barbie</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/sonho-de-umas-ferias-de-ver-o';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8813/1a.jpg"></div>
+															<p class="article-title">Tendências</p>
+															<p class="article-name">Sonho de umas Férias de Verão</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/na-terra-dos-sonhos';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8811/Vogue Portugal_2019010t1_Low Res_© Bastiaan Woudt_www.bastiaanwoudt.jpg"></div>
+															<p class="article-title">Tendências</p>
+															<p class="article-name">Na Terra dos Sonhos</p>
+														</div>
+													</li>
+												  </ul></div></li><li class><a href="/colec-o-es-1" data-id="16">Coleções</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/max-mara-cruise-2024-septem-flores-stockholm';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8794/Max Mara Resort S24 61.jpg"></div>
+															<p class="article-title">Coleções</p>
+															<p class="article-name">Max Mara | Cruise 2024</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/louis-vuitton-cruise-2024';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8728/vuitton-cruise-2400035.jpg"></div>
+															<p class="article-title">Coleções</p>
+															<p class="article-name">Louis Vuitton | Cruise 2024</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/dior-cruise-show-mexico-city';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8720/dior-cruise00021.jpg"></div>
+															<p class="article-title">Coleções</p>
+															<p class="article-name">Dior | Cruise'24</p>
+														</div>
+													</li>
+												  </ul></div></li><li class><a href="/project-union" data-id="44">Project Union</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/project-union-shopping';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/5725/susana-bettencourt-union.jpg"></div>
+															<p class="article-title">Compras</p>
+															<p class="article-name">Project Vogue Union | #comprarportuguês</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/ines-torcato-entrevista';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/5371/ines-torcato-vogue-union-entrevista.jpg"></div>
+															<p class="article-title">Project Union</p>
+															<p class="article-name">Project: Vogue Union | Inês Torcato, a herdeira</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/valentim-quaresma-entrevista';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/5356/valentim-quaresma.jpg"></div>
+															<p class="article-title">Project Union</p>
+															<p class="article-name">Project: Vogue Union | Valentim Quaresma, alma de criador</p>
+														</div>
+													</li>
+												  </ul></div></li><li class="view-all-li"><a href="/moda" data-id="2">View all ></a></li>		  </ul>
+									</div>
+								</div>				</li><li class="parent-li"><a href="/beleza" data-id="3">Beleza</a><div class="wsshoptabing wtsdepartmentmenu clearfix">
+									<div class="wsshopwp clearfix">
+										  <ul class="wstabitem clearfix"><li class="wsshoplink-active"><a href="/noti-cias" data-id="17">Notícias</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/global-open-call-what-is-beauty-winners';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8826/yongbin park - 701 - 08.jpg"></div>
+															<p class="article-title">Notícias</p>
+															<p class="article-name">"Global Open Call: What Is Beauty?": os 40 selecionados</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/le-grand-numero-de-chanel';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8223/_AAA4058-min.jpg"></div>
+															<p class="article-title">Notícias</p>
+															<p class="article-name">A grande odisseia olfativa da Chanel </p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/em-busca-da-harmonia-la-prairie';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8105/Lacombe_L46_LaPrairie_SC-Harmony_FOND_4_Adb98_F.jpg"></div>
+															<p class="article-title">Notícias</p>
+															<p class="article-name">Em busca da harmonia</p>
+														</div>
+													</li>
+												  </ul></div></li><li class><a href="/compras" data-id="18">Compras</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/o-aroma-dos-dias-de-verao';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8836/Vogue Banner PERFUMES SQUARE.jpg"></div>
+															<p class="article-title">Compras</p>
+															<p class="article-name">O aroma dos dias de verão</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/o-melhor-amigo-da-pele';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8823/4.jpg"></div>
+															<p class="article-title">Compras</p>
+															<p class="article-name">O melhor amigo da pele</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/fake-it-till-you-make-it-autobronzeadores';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8718/EXPORT.jpg"></div>
+															<p class="article-title">Compras</p>
+															<p class="article-name">Fake it till you make it</p>
+														</div>
+													</li>
+												  </ul></div></li><li class><a href="/tende-ncias" data-id="19">Tendências</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/into-the-wild-1';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8807/1.jpg"></div>
+															<p class="article-title">Tendências</p>
+															<p class="article-name">Into the wild</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/the-last-h-airbender';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8806/DABOMB_Look1_2.jpg"></div>
+															<p class="article-title">Tendências</p>
+															<p class="article-name">The Last (H)airbender</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/crystal-clear-beleza-editorial';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8803/10__DSC_6845-2.jpg"></div>
+															<p class="article-title">Tendências</p>
+															<p class="article-name">Crystal clear</p>
+														</div>
+													</li>
+												  </ul></div></li><li class="view-all-li"><a href="/beleza" data-id="3">View all ></a></li>		  </ul>
+									</div>
+								</div>				</li><li class="parent-li"><a href="/lifestyle" data-id="4">Lifestyle</a><div class="wsshoptabing wtsdepartmentmenu clearfix">
+									<div class="wsshopwp clearfix">
+										  <ul class="wstabitem clearfix"><li class="wsshoplink-active"><a href="/noti-cias-1" data-id="20">Notícias</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/to-be-continued-the-voyage-issue';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8747/objets-nomades-to-be-continued-v241.jpg"></div>
+															<p class="article-title">Notícias</p>
+															<p class="article-name">To be Continued | Classe Executiva</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/francois-henri-pinault-dinner-conde-nast';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8470/Francois-Henri Pinault, Anna Wintour, Francois Pinault.jpg"></div>
+															<p class="article-title">Notícias</p>
+															<p class="article-name">Um tesouro de sete décadas da Fotografia Condé Nast elevado a arte em Veneza</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/oscares-os-nomeados-e-as-apostas-da-vogue';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8336/GettyImages-10150595.jpg"></div>
+															<p class="article-title">Notícias</p>
+															<p class="article-name">Óscares: os nomeados (e as apostas da Vogue)</p>
+														</div>
+													</li>
+												  </ul></div></li><li class><a href="/agenda" data-id="21">Agenda</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/did-anyone-say-summer-party-mercado-arte';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8831/5abb5614-5843-4fb7-917a-53aa2d03c237 (1).jpg"></div>
+															<p class="article-title">Agenda</p>
+															<p class="article-name">Did anyone say Summer Party?</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/giulia-be-disco-voador-portugal';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8828/GIULIA_BE_DIMITROW_FINAL_06.jpg"></div>
+															<p class="article-title">Agenda</p>
+															<p class="article-name">Giulia Be: primeira digressão da artista brasileira passa por Portugal</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/tundra-beyond';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8377/Tundra-4203.jpg"></div>
+															<p class="article-title">Agenda</p>
+															<p class="article-name">Tundra & Beyond</p>
+														</div>
+													</li>
+												  </ul></div></li><li class><a href="/compras-2" data-id="22">Compras</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/english-version-lifestyle-shopping-hedonism-issue';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8665/claudia-back-0HFSEi1jPMM-unsplash.jpg"></div>
+															<p class="article-title">Compras</p>
+															<p class="article-name">English Version | In the mood for beauty</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/oscares-2023-streaming-lifestyle';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8479/Vogue banner OSCARS.jpg"></div>
+															<p class="article-title">Compras</p>
+															<p class="article-name">Óscares 2023 | Óscares em direto? This is the Vogue way to do it </p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/gift-guide-2022-red-red-christmas';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8230/gift guide house Christmas Vogue.jpg"></div>
+															<p class="article-title">Compras</p>
+															<p class="article-name">Gift Guide 2022: Red Red Christmas </p>
+														</div>
+													</li>
+												  </ul></div></li><li class><a href="/tende-ncias-2" data-id="23">Tendências</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/queer-contos-de-fadas';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/7595/queer-contos-fadas-2.jpg"></div>
+															<p class="article-title">Tendências</p>
+															<p class="article-name">Onde está o queer nos contos de fadas?</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/chat-gpt-revolution-issue';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8628/Fala por ti Chat GPT.jpg"></div>
+															<p class="article-title">Tendências</p>
+															<p class="article-name">Fala por ti, ChatGPT</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/hashtag-pub';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8115/rPOSTER 09-JOAO FINAL copiar.jpg"></div>
+															<p class="article-title">Tendências</p>
+															<p class="article-name">Hashtag: #pub</p>
+														</div>
+													</li>
+												  </ul></div></li><li class><a href="/roteiro" data-id="24">Roteiro</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/vogue-world-2023';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8732/naomi-vogue-world-announcement.jpg"></div>
+															<p class="article-title">Roteiro</p>
+															<p class="article-name">Vogue World dará o pontapé de saída para a London Fashion Week</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/tivoli-palacio-de-seteais-flores-pelo-mundo';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8620/GCS00820_post.jpg"></div>
+															<p class="article-title">Roteiro</p>
+															<p class="article-name">Flores Pelo Brasil: Tivoli Palácio de Seteais mostrou oito designers brasileiros</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/blonde-marilyn-monroe-biopic';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/7733/Blonde_00_44_24_13_c_R2a (1).jpg"></div>
+															<p class="article-title">Roteiro</p>
+															<p class="article-name">Blonde: o que já se sabe da biopic de Marilyn Monroe</p>
+														</div>
+													</li>
+												  </ul></div></li><li class="view-all-li"><a href="/lifestyle" data-id="4">View all ></a></li>		  </ul>
+									</div>
+								</div>				</li><li class="parent-li"><a href="/estilo" data-id="5">Estilo</a><div class="wsshoptabing wtsdepartmentmenu clearfix">
+									<div class="wsshopwp clearfix">
+										  <ul class="wstabitem clearfix"><li class="wsshoplink-active"><a href="/pessoas" data-id="25">Pessoas</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/getting-ready-helena-caldeira-rabo-de-peixe';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8723/helena-caldeira-rabo-de-peixe-netflix00014.jpg"></div>
+															<p class="article-title">Pessoas</p>
+															<p class="article-name">Getting Ready | Helena Caldeira na première de "Rabo de Peixe"</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/ysl-morocco-an-affair-to-remember';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8697/RGB YSL.jpg"></div>
+															<p class="article-title">Pessoas</p>
+															<p class="article-name">YSL & Morocco: an affair to remember</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/style-file-kate-middleton-princesa-gales-estilo';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8696/kate-middleton-GettyImages-1487507849.jpg"></div>
+															<p class="article-title">Pessoas</p>
+															<p class="article-name">Guia de Estilo: Kate Middleton, Princesa de Gales</p>
+														</div>
+													</li>
+												  </ul></div></li><li class><a href="/eventos-1" data-id="26">Eventos</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/coronation-rei-charles-iii-guests-arrival';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8701/Prince William, Catherine, Princess of Wales, and their children Princess Charlottte and Prince Louis GettyImages-1252743700.jpg"></div>
+															<p class="article-title">Eventos</p>
+															<p class="article-name">Coronation | Os convidados de Rei Charles III para a sua coroação</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/aqua-terra-shades-omega-zoe-kravitz-eddie-redmayne';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8545/OMEGA_Aqua_Terra_Shades_London_Zoe_Kravitz1.jpg"></div>
+															<p class="article-title">Eventos</p>
+															<p class="article-name">Omega apresenta nova coleção Aqua Terra Shades em Londres</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/oscares-2023-os-melhores-looks-de-after-party';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8474/Christina Aguilera_GettyImages-1473115908.jpg"></div>
+															<p class="article-title">Eventos</p>
+															<p class="article-name">Óscares 2023 | Os looks da after-party</p>
+														</div>
+													</li>
+												  </ul></div></li><li class><a href="/street-style-1" data-id="27">Street Style</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/models-off-duty-isabelle-hardy';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8506/ChanelAW23_Grace_Elizabeth_byIsabelleHardy copy.jpg"></div>
+															<p class="article-title">Street Style</p>
+															<p class="article-name">Models Off-Duty | O estrelato e os bastidores</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/street-style-semana-de-moda-de-paris-primavera-verao-2023';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8001/paris-streetstyle-vogue-portugal8.jpg"></div>
+															<p class="article-title">Street Style</p>
+															<p class="article-name">We'll always have Paris Fashion Week Street Style</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/street-style-semana-de-moda-de-londres-primavera-verao-2023';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/7896/17-street-style-semana-moda-londres-primavera-verao-2023.jpg"></div>
+															<p class="article-title">Street Style</p>
+															<p class="article-name">Cool kids club: os melhores looks de street style da Semana de Moda de Londres</p>
+														</div>
+													</li>
+												  </ul></div></li><li class="view-all-li"><a href="/estilo" data-id="5">View all ></a></li>		  </ul>
+									</div>
+								</div>				</li><li class="parent-li"><a href="/vogue-tv" data-id="6">Vogue TV</a><div class="wsshoptabing wtsdepartmentmenu clearfix">
+									<div class="wsshopwp clearfix">
+										  <ul class="wstabitem clearfix"><li class="wsshoplink-active"><a href="/vi-deos-1" data-id="28">Vídeos</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/fashion-film-ciao-bella-un-popular-issue';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8840/Lido_VoguePrtgl_110623_CP 64LOWRES.jpg"></div>
+															<p class="article-title">Vídeos</p>
+															<p class="article-name">Fashion Film | Ciao, bella!</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/fashion-film-party-like-its-un-popular-issue';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8839/DSC_1890.jpg"></div>
+															<p class="article-title">Vídeos</p>
+															<p class="article-name">Fashion Film | Party like it's...</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/an-unusual-swim-editorial-moda';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8739/1File .jpg"></div>
+															<p class="article-title">Vídeos</p>
+															<p class="article-name">An unusual swim</p>
+														</div>
+													</li>
+												  </ul></div></li><li class><a href="/livestream-1" data-id="29">Livestream</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/prada-primavera-ver-o-2023-em-direto-de-mil-o';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/7872/Prada Women SS23 (1).jpg"></div>
+															<p class="article-title">Livestream</p>
+															<p class="article-name">Prada: primavera/verão 2023, em direto de Milão</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/elisabetta-franchi-outono-inverno-2022-em-direto-de-mil-o';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/7200/elisabetta-franchi-outono-inverno-2022-em-direto-de-mil-o.jpg"></div>
+															<p class="article-title">Livestream</p>
+															<p class="article-name">Elisabetta Franchi: outono/inverno 2022, em direto de Milão</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/elisabetta-franchi-primavera-verao-2022-em-direto-de-milao';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/6658/SS22_data.jpg"></div>
+															<p class="article-title">Livestream</p>
+															<p class="article-name">Elisabetta Franchi: primavera/verão 2022, em direto de Milão</p>
+														</div>
+													</li>
+												  </ul></div></li><li class="view-all-li"><a href="/vogue-tv" data-id="6">View all ></a></li>		  </ul>
+									</div>
+								</div>				</li><li class="parent-li"><a href="/opinia-o" data-id="7">Opinião</a><div class="wsshoptabing wtsdepartmentmenu clearfix">
+									<div class="wsshopwp clearfix">
+										  <ul class="wstabitem clearfix"><li class="wsshoplink-active"><a href="/editorial" data-id="31">Editorial</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/editorial-sofia-lucas-unpopular-issue-julho-agosto-2023';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8886/CAPA (242) C - RGB - Instagram.jpg"></div>
+															<p class="article-title">Editorial</p>
+															<p class="article-name">Editorial | The [Un]Popular Issue, julho/agosto 2023</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/editorial-sofia-lucas-the-voyage-issue-junho-2023';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8789/CAPA (241) A - RGB.jpg"></div>
+															<p class="article-title">Editorial</p>
+															<p class="article-name">The Voyage Issue | Editorial: junho 2023</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/editorial-pleasure-issue-hedonism-sofia-lucas';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8689/Vogue-portugal-hedonism-pleasure-issue-may-b.jpg"></div>
+															<p class="article-title">Editorial</p>
+															<p class="article-name">Editorial | Hedonism, The Pleasure Issue</p>
+														</div>
+													</li>
+												  </ul></div></li><li class><a href="/palavra-da-vogue" data-id="32">Palavra da Vogue</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/o-que-lhe-reservam-os-astros-para-a-semana-de-18-de-julho-a-24-de-julho-2023';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8892/Horoscopo_janeiro_copiar_6.jpeg"></div>
+															<p class="article-title">Palavra da Vogue</p>
+															<p class="article-name">O que lhe reservam os astros para a semana de 18 de julho a 24 de julho</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/to-be-continued-un-popular-issue';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8841/RGB---GettyImages-563939229.jpg"></div>
+															<p class="article-title">Palavra da Vogue</p>
+															<p class="article-name">To be Continued |  Hit Parade: Vogue Portugal Edition </p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/o-que-lhe-reservam-os-astros-para-a-semana-de-11-de-julho-a-17-de-julho-2023';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/8838/Horoscopo_janeiro_copiar_6.jpeg"></div>
+															<p class="article-title">Palavra da Vogue</p>
+															<p class="article-name">O que lhe reservam os astros para a semana de 11 de julho a 17 de julho</p>
+														</div>
+													</li>
+												  </ul></div></li><li class><a href="/suzy-menkes" data-id="41">Suzy Menkes</a><div class="wstitemright clearfix"><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/suzy-menkes-vogue-portugal-primeira-cronica';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/4244/suzy-menkes-karl-lagerfeld.jpg"></div>
+															<p class="article-title">Suzy Menkes</p>
+															<p class="article-name">Suzy Menkes | Com poupa e circunstância</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/chanel-cruise-2020-entrevista';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/5093/chanel-cruise-collection-2020.jpg"></div>
+															<p class="article-title">Suzy Menkes</p>
+															<p class="article-name">Virginie Viard revela a nova coleção Cruise da Chanel com um desfile virtual</p>
+														</div>
+													</li>
+												  </ul><ul class="wstliststy02">
+													<li>
+														<div class="article-link-box" onclick="window.location='/karl-lagerfeld-aniversario-da-morte';">
+															<div class="image"><img class="menu-image" src="../images/avatar.png" data-src="/media/pages/4639/KarlLagerfeld-Suzymenkes-vogue12feb20-GettyImages- cópia.jpg"></div>
+															<p class="article-title">Suzy Menkes</p>
+															<p class="article-name">Karl Lagerfeld, um ano depois</p>
+														</div>
+													</li>
+												  </ul></div></li><li class="view-all-li"><a href="/opinia-o" data-id="7">View all ></a></li>		  </ul>
+									</div>
+								</div>				</li><li class="parent-li"><a href="/inspiring-women" data-id="42">Inspiring Women</a>				</li><li class="parent-li"><a href="/connected" data-id="43">Connected</a>				</li><li class="parent-li"><a href="https://shop.light-house.pt/collections/vogue-portugal-magazines" target data-id="45">Covers</a></li><li class="parent-li"><a href="https://shop.light-house.pt" target="_blank" data-id="1000" style="color: #ee7680 !important;">Shop</a></li>		  </ul><ul class="social mobile-social" style="display: none;">
+				<li><a href="https://www.facebook.com/VoguePortugal/?fref=ts" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+				<li><a href="https://www.instagram.com/vogueportugal/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+				<li><a href="https://twitter.com/vogueportugal" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+				<!--li><a href="https://www.pinterest.pt/explore/vogue-portugal/" target="_blank"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li-->
+			</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+				<form method="get" class="search-form" action="/pesquisa">
+					<a href="javascript:void(0);" class="search-form-button"><i class="fa fa-search" aria-hidden="true"></i></a>
+					<input type="text" name="search_value" value placeholder="Pesquisa" onfocus="this.placeholder=''" onblur="this.placeholder='Pesquisa'">
+					<a href="javascript:void(0);" class="search-close-button"><i class="fa fa-close" aria-hidden="true"></i></a>
+				</form>
+				<a href="javascript:void(0);" class="search-button"><i class="fa fa-search" aria-hidden="true"></i></a>
+			</div>
+		</nav>
+		<div id="page">
+				<div class="ct-b-3-mobile"></div>
+				<div class="ct-b-3-tablet"></div>
+<div class="wrapper">
+	<div class="content no-margin">
+		<h1>Error 404</h1>
+	</div>
+</div>
+			<footer>
+				<div class="newsletter">
+					<h2>Vogue newsletter</h2>
+					<p>Todas as novidades Vogue Portugal diretamente no seu e-mail.</p>
+					<form method="post" id="newsletter_form">
+						<div class="row">
+							<div class="col-md-9"><input type="text" class="email" name="email" value placeholder="O seu e-mail"></div>
+							<div class="col-md-3"><input type="button" class="continue" name="continue" value="Continue"></div>
+						</div>
+					</form>
+					<div class="newsletter_result"><div class="loader"></div></div>
+					<script>
+						jQuery(document).ready(function($) {
+							//$(".pinned").pin( { minWidth: 991, padding: { top: 60, bottom: 0 } } );
+							if($(window).width() >= 991) {
+								$(".pinned").sticky({topSpacing: 60});
+							}
+							
+							$('#newsletter_form .continue').click(function() {
+								$('#newsletter_form').hide();
+								$(".newsletter_result").show();
+								$(".newsletter_result .loader").show();
+								
+								var email = $('#newsletter_form .email').val();
+								
+								$.post("?newsletter=1&email=" + email, function(data) {
+									if(data >= -1) {
+										$(".newsletter_result").html('<p>Obrigado por subscrever a nossa newsletter.</p>');
+										
+										dataLayer.push({
+										   event: 'track',
+										   eventCategory: 'newsletter',
+										   eventAction: 'signup_vogue'
+										});
+									} else {
+										$(".newsletter_result").html('<p>Registration failed.</p>');
+										
+										setTimeout(function() {
+											$(".newsletter_result").html('<div class="loader"></div>');
+											
+											$('#newsletter_form').fadeIn();
+											$(".newsletter_result").hide();
+											$(".newsletter_result .loader").hide();
+										}, 5000);
+									}
+								});
+								
+								return false;
+							});
+						})
+					</script>
+					<p><small>Utilização de acordo com a nossa <a href="/politica-de-privacidade">Política de Privacidade</a></small></p>
+				</div>
+				<div class="menu">
+					<div class="wrapper">
+						<ul class="social">
+							<li><a href="https://www.facebook.com/VoguePortugal/?fref=ts" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+							<li><a href="https://www.instagram.com/vogueportugal/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+							<li><a href="https://twitter.com/vogueportugal" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+							<li><a href="https://www.youtube.com/channel/UCApj7u1bhGkMqMOF-tiREow" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+							<!--li><a href="https://www.pinterest.pt/explore/vogue-portugal/" target="_blank"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li-->
+						</ul>
+						<ul id="menu"><li><a href="/newsletter" data-id="33">Newsletter</a></li><li><a href="/shop" data-id="35">Shop</a></li></ul>
+						<div class="magazine">
+							<a href="https://shop.light-house.pt" target="_blank">
+								<img src="../images/vogue-portugal-cover-unpopular-issue-a.jpg" width="120">
+								Shop
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="copyright">
+					<a href target="_blank"><img src="lighthouse.svg" width="120" alt title></a>
+				</div>
+				<div class="menu-2">
+					<div class="wrapper">
+						<ul id="menu"><li><a href="/contactos" data-id="36">Contactos</a></li><li><a href="/ficha-tecnica" data-id="37">Ficha técnica</a></li><li><a href="/termos-e-condicoes" data-id="38">Termos e condicoes</a></li><li><a href="/politica-de-privacidade-e-cookies" data-id="39">Política de privacidade e cookies</a></li><li><a href="/vogue-no-mundo" data-id="40">Vogue no mundo</a></li></ul>
+					</div>
+				</div>
+			</footer>
+			<div class="menu-overlay"></div>
+		</div>
+		<div class="copyright2"></div>
+		<script>
+			$(document).ready(function() {
+				reload_grid(); console.debug(1);
+			});
+			setTimeout(function() {
+				reload_grid(); console.debug(2);
+			}, 2000);
+			
+			setTimeout(function() {
+				reload_grid();
+				
+				console.debug(4);
+			}, 4000);
+			
+			setTimeout(function() {
+				reload_grid();
+			}, 6000);
+			
+			setTimeout(function() {
+				reload_grid();
+			}, 8000);
+			
+			setTimeout(function() {
+				reload_grid();
+			}, 10000);
+		</script>
+		<!-- 
+			<div class="cookies">
+				<p>Este website utiliza cookies. Saiba mais sobre a <a href="/politica-de-privacidade">nossa política de cookies</a>. &nbsp; <a class="btn btn-default btn-xs" href="?cookieAgree=1">OK</a></p>
+			</div>
+		 -->
+		<div class="gallery-popup">
+			<div class="loader"></div>
+			<div class="gallery-popup-box">
+				<div class="gallery-popup-header">
+					<a href="/" class="logo2"><img src="logo.svg" alt="Vogue.pt Logo" title="Vogue.pt" height="24"></a>
+					<!--a href="/" class="logo2"><img src="/skin/frontend/images/vogue-pride-2023.svg" alt="Vogue.pt Logo" title="Vogue.pt" height="24"></a-->
+					<a href="javascript:void(0);" class="gallery-popup-close-button"></a>
+				</div>
+				<div class="gallery-popup-content">
+					
+				</div>
+			</div>
+		</div>
+		<script>
+			jQuery(document).ready(function($) {
+				if($(window).width() > 768) {
+					$(document).on('click', '.gallery-photo-link', function() {
+						var data_id = $(this).data('id');
+						
+						$('.gallery-popup').fadeIn();
+						
+						$.post("?get_gallery_popup=" + data_id, function(data) {
+							$(".gallery-popup-content").html(data);
+
+							setTimeout(function() {
+								$('.gallery-popup-box').animate( { opacity: 1 }, 1000);
+							}, 350);
+						});
+						
+						return false;
+					});
+					
+					$('.gallery-popup-close-button').click(function() {
+						$('.gallery-popup-box').animate( { opacity: 0 }, 1000);
+						$('.gallery-popup').fadeOut();
+					});
+				} else {
+					$(document).on('click', '.gallery-photo-link', function() {
+						return false;
+					});
+				}
+				
+				$(document).on('click', '.adv.adv-2', function() {
+					var data_id = 2;
+						
+					$.post("?adv_click=1&id=" + data_id, function(data) {});
+						
+					console.debug('adv 2');
+				});
+				
+				$(document).on('click', '.adv.adv-3', function() {
+					var data_id = 3;
+						
+					$.post("?adv_click=1&id=" + data_id, function(data) {});
+						
+					console.debug('adv 3');
+				});
+				
+				if($(window).width() > 768) {
+					/*if($('.adv.adv-2').length > 0) {
+						var data_id = 2;
+						
+						$.post("?adv_impression=1&id=" + data_id, function(data) {});
+									
+						console.debug('adv 2');
+					}
+					
+					if($('.adv.adv-3').length > 0) {
+						var data_id = 3;
+						
+						$.post("?adv_impression=1&id=" + data_id, function(data) {});
+									
+						console.debug('adv 3');
+					}*/
+				}
+			});
+		</script>
+		<style>
+			.gallery-popup {
+				position: fixed;
+				left: 0px;
+				top: 0px;
+				display: none;
+				width: 100%;
+				height: 100%;
+				background: #fff;
+				z-index: 9999999999;
+			}
+			
+			.gallery-popup-box {
+				opacity: 0;
+			}
+			
+			.gallery-popup .gallery-popup-header {
+				padding: 25px;
+			}
+			
+			.gallery-popup-close-button {
+				position: absolute;
+				right: 25px;
+				top: 25px;
+				width: 35px;
+				height: 35px;
+				background-image: url(../images/quit.png);
+				background-repeat: no-repeat;
+				background-size: 100% 100%;
+				background-position: center center;
+				background-color: transparent;
+				outline: none;
+				-webkit-transition-duration: 0.5s;
+				-moz-transition-duration: 0.5s;
+				-o-transition-duration: 0.5s;
+				transition-duration: 0.5s;
+				-webkit-transition-property: -webkit-transform;
+				-moz-transition-property: -moz-transform;
+				-o-transition-property: -o-transform;
+				transition-property: transform;
+			}
+			
+			.gallery-popup-close-button:hover {
+				-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg); -o-transform:rotate(180deg);
+			}
+			
+			.gallery-popup-content {
+				width: 80%;
+				text-align: center;
+				margin: 0 auto;
+				margin-top: -50px;
+				-webkit-transition: all 1s linear;
+				-moz-transition: all 1s linear;
+				-ms-transition: all 1s linear;
+				-o-transition: all 1s linear;
+				opacity: 1;
+			}
+			
+			.gallery-popup-content .gallery-numbers {
+				text-align: center;
+			}
+			
+			.gallery-items .slick-slide {
+				
+			}
+			
+			.gallery-popup-content .image IMG {
+				display: block;
+				height: 600px;
+			}
+			
+			.wsshoptabing {
+				top: 25px;
+				z-index: 0;
+			}
+			
+			.wsmenu-list>li:hover .wsshoptabing {
+				z-index: 9999;
+			}
+		</style>
+	</body>
+</html>
